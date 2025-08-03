@@ -18,7 +18,7 @@ public class fibonacci_recursively {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter the number:");
         int num=sc.nextInt();
-        int result=fibonacci(num);
+        // int result=fibonacci(num);
 
         // System.out.println(result); //single  
 
