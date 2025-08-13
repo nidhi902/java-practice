@@ -14,7 +14,7 @@ public class filehandling {
 //             System.out.println("file cannot created");
 //         }
 
-//         //writing in file
+         //writing in file
 //         try{
 
 //         FileWriter writing=new FileWriter("nidhi.txt");
