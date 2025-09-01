@@ -6,7 +6,7 @@ public class string_fun {
         // String name="nidhi";
         // System.out.println(name);
 
-        // //taking input string
+        //taking input string
         // Scanner sc=new Scanner(System.in);
         // System.out.println("enter your name:");
         // String input=sc.nextLine();
@@ -20,7 +20,7 @@ public class string_fun {
         //     System.out.println(input.charAt(3));
         // }
 
-        //string comparison
+        //string comparison function
         // String name1="hello";
         // String name2="hello";
 
@@ -49,7 +49,7 @@ public class string_fun {
         //substring method string ka chota bhag
 
         String sen="my name is nidhi";
-        String name=sen.substring(5,sen.length());
+        String name=sen.substring(5,sen.length());  //beginning ,ending
         System.out.println(name);
 
         
